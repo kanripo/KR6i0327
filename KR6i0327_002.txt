@@ -1,22 +1,20 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:16:24.833065
+#+DATE: 2015-08-30 20:16:27.067479
 #+TITLE: 楞伽阿跋多羅寶經
 #+PROPERTY: CBETA_ID T16n0670
 #+PROPERTY: ID KR6i0327
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 16, No. 670
 #+PROPERTY: VOL 16
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6i0327_T_002-0489a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 《楞伽阿跋多羅寶經》卷第二¶
+《楞伽阿跋多羅寶經》卷第二¶
 ¶
 宋天竺三藏求那跋陀羅譯¶
-
-之二一切佛語心品之二¶
+一切佛語心品之二¶
 
 爾時，大慧菩薩摩訶薩白佛言：「世尊！世尊修¶
 多羅說，如來藏自性清淨，轉三十二相，入¶
@@ -342,7 +340,7 @@
 　如為翳所翳。¶
 　於無始生死，
 　計著攝受性，¶
-　如逆㨝出㨝，
+　如逆[打-丁+屑]出[打-丁+屑]，
 　捨離貪攝受，¶
 　如幻呪機發，
 　浮雲夢電光。¶

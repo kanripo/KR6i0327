@@ -1,22 +1,20 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:16:24.884827
+#+DATE: 2015-08-30 20:16:27.102655
 #+TITLE: 楞伽阿跋多羅寶經
 #+PROPERTY: CBETA_ID T16n0670
 #+PROPERTY: ID KR6i0327
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 16, No. 670
 #+PROPERTY: VOL 16
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6i0327_T_003-0497c> ¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 3
 ¶
 ¶
-
- 《楞伽阿跋多羅寶經》卷第三¶
+《楞伽阿跋多羅寶經》卷第三¶
 ¶
 宋天竺三藏求那跋陀羅譯¶
-
-之三一切佛語心品之三¶
+一切佛語心品之三¶
 
 爾時，世尊告大慧菩薩摩訶薩言：「意生身分¶
 別通相，我今當說。諦聽，諦聽！善思念之。」
